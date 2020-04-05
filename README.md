@@ -12,4 +12,5 @@ Para desplazarnos sobre el mapa utilizamos las siguientes teclas:
 - S -> Atrás
 - A -> Izquierda
 - D -> Derecha
+
 Una vez ha finalizado el juego, podemos reiniciarlo pulsado la tecla Esc.
